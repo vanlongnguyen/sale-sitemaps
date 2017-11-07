@@ -1,0 +1,48 @@
+{
+	"items": [
+		{
+			"values" : [
+				   {
+						"title": "Zalora",
+						"url": "https://iprice.my/coupons/zalora/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+						"img": "image/zalora.jpg"
+				   },
+				   {
+				   		"title": "Lazada",
+				   		"url" : "https://iprice.my/coupons/lazada/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/lazada.jpg"
+				   },
+				   {
+				   		"title": "11Street",
+				   		"url" : "https://iprice.my/coupons/11street/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/11street.jpg"
+				   },
+				   {
+				   		"title": "Qoo10",
+				   		"url" : "https://iprice.my/coupons/qoo10/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/qoo10.jpg"
+				   },
+				   {
+				   		"title": "Uber",
+				   		"url" : "https://iprice.my/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/uber.jpg"
+				   },
+				   {
+				   		"title": "Grab",
+				   		"url" : "https://iprice.my/coupons/grab/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/grab.jpg"
+				   },
+				   {
+				   		"title": "Agoda",
+				   		"url" : "https://iprice.my/coupons/agoda/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/agoda.jpg"
+				   },
+				   {
+				   		"title": "Hotels.com",
+				   		"url" : "https://iprice.my/coupons/hotelscom/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/hotelscom.jpg"
+				   }
+			]	
+		}
+ ]
+}

@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "values": [
+                {
+                    "title": "สมาร์ทโฟน",
+                    "description": "ได้เวลาเปลี่ยนมือถือและช้อปอุปกรณ์ชิ้นใหม่ด้วยโปรแรงลดกระหน่ำ",
+                    "url": "https://ipricethailand.com/โทรศพทและแทบเลต/สมารทโฟน/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "https://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/smartphones__f4ll2x.jpg",
+                    "cta" : "ช้อปเลย",
+                    "default" : true
+                },
+                {
+                    "title": "รองเท้า",
+                    "description": "เสริมลุคให้ดีขึ้นด้วยรองเท้าคู่โดนใจที่เป็นเจ้าของได้ในราคาสุดสบายกระเป๋า",
+                    "url": "https://ipricethailand.com/รองเทา/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "https://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/shoes__xlwz6b.jpg",
+                    "cta" : "ช้อปเลย",
+                    "default" : true
+                },
+                {
+                    "title": "กระเป๋า",
+                    "description": "จะใบนี้ใบไหนก็ถูกใจ แล้วจะดีกว่าไหมถ้าซื้อกระเป๋าใบใหม่ในราคาที่ถูกกว่า",
+                    "url": "https://ipricethailand.com/กระเปา/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "https://res.cloudinary.com/dqf8oma0l/image/upload/v1509512807/bags2__pu7vf0.jpg",
+                    "cta" : "ช้อปเลย",
+                    "default" : true
+                },
+                {
+                    "title": "สขภาพและความงาม",
+                    "description": "อย่าปล่อยให้สกินแคร์แบะเครื่องสำอางชิ้นโปรดอยู่แค่ใน Wishlist!",
+                    "url": "https://ipricethailand.com/ผลตภณฑดแลผว/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "https://res.cloudinary.com/dqf8oma0l/image/upload/v1509512807/skincare__xfdslr.jpg",
+                    "cta" : "ช้อปเลย",
+                    "default" : true
+                }
+            ]
+        }
+    ]
+}                                               

@@ -1,0 +1,38 @@
+{
+    "items": [
+        {
+            "values": [
+                {
+                    "title": "Zalora",
+                    "description": "11.11 Singles Day Your Way. Up to 50% Off",
+                    "url": "http://bit.ly/2hbTcSx",
+                    "img": "image/zalora_square.jpg",
+                    "cta" : "Shop Now",
+                    "default" : true
+                },
+                {
+                    "title": "Smartphones",
+                    "description": "Been eyeing that new smartphone? It's time to get it!",
+                    "url": "https://iprice.ph/phones-tablets/smartphones/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "https://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/smartphones__f4ll2x.jpg",
+                    "cta" : "Shop Now",
+                    "default" : true
+                },
+                {
+                    "title": "Lazada",
+                    "description": "Biggest Sale in The Universe",
+                    "url": "https://iprice.ph/coupons/lazada/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "image/lazada_square.jpg"
+                },
+                {
+                    "title": "Shoes",
+                    "description": "Walk softly, but with great savings on shoes!",
+                    "url": "https://iprice.ph/shoes/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "https://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/shoes__xlwz6b.jpg",
+                    "cta" : "Shop Now",
+                    "default" : true
+                }
+            ]
+        }
+    ]
+}

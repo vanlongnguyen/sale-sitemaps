@@ -1,0 +1,38 @@
+{
+	"items": [
+		{
+			"values" : [
+				   {
+						"title": "Swatch",
+						"url": "https://iprice.ph/swatch/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+						"img": "image/swatch-sq.jpg"
+				   },
+				   {
+				   		"title": "Samsung",
+				   		"url" : "https://iprice.ph/samsung/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/samsung.jpg"
+				   },
+				   {
+				   		"title": "Forever 21",
+				   		"url" : "https://iprice.ph/forever-21/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/forever21-sq.jpg"
+				   },
+				   {
+				   		"title": "Herschel",
+				   		"url" : "https://iprice.ph/herschel-supply-co/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/herschel-sq.jpg"
+				   },
+				   {
+				   		"title": "Vans",
+				   		"url" : "https://iprice.ph/vans/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/vans-sq.jpg"
+				   },
+				   {
+				   		"title": "Nike",
+				   		"url" : "https://iprice.ph/nike/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/nike-sq.jpg"
+				   }
+			]	
+		}
+ ]
+}

@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "values": [
+                {
+                    "title": "Watches",
+                    "description": "What time is it? It's 11.11 - time to get some watches with discounts!",
+                    "url": "https://iprice.my/watches/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "https://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/watch__imo4pa.jpg",
+                    "cta" : "Shop Now",
+                    "default" : true
+                },
+                {
+                    "title": "Laptops",
+                    "description": "Finally, laptops can be affordable!",
+                    "url": "https://iprice.my/computing/laptops/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "https://res.cloudinary.com/dqf8oma0l/image/upload/v1509512807/laptop__uyfqac.jpg",
+                    "cta" : "Shop Now",
+                    "default" : true
+                },
+                {
+                    "title": "Lazada",
+                    "description": "Biggest Sale in The Universe",
+                    "url": "https://iprice.my/coupons/lazada/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "image/lazada_square.jpg"
+                },
+                {
+                    "title": "Zalora",
+                    "description": "11.11 Singles Day Your Way. Up to 50% Off",
+                    "url": "http://bit.ly/2zhifuh",
+                    "img": "image/zalora_square.jpg",
+                    "cta" : "Shop Now",
+                    "default" : true
+                }
+            ]
+        }
+    ]
+}
+
+       

@@ -1,0 +1,38 @@
+{
+	"items": [
+		{
+			"values" : [
+				   {
+						"title": "Onitsuka Tiger",
+						"url": "https://ipricethailand.com/onitsuka-tiger/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+						"img": "image/onitsukatiger-sq.jpg"
+				   },
+				   {
+				   		"title": "Converse",
+				   		"url" : "https://ipricethailand.com/converse/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/converse-sq.jpg"
+				   },
+				   {
+				   		"title": "Adidas",
+				   		"url" : "https://ipricethailand.com/adidas/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/adidas-sq.jpg"
+				   },
+				   {
+				   		"title": "Lacoste",
+				   		"url" : "https://ipricethailand.com/lacoste/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/lacoste-sq.jpg"
+				   },
+				   {
+				   		"title": "Innisfree",
+				   		"url" : "https://ipricethailand.com/innisfree/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/innisfree-sq.jpg"
+				   },
+				   {
+				   		"title": "Nike",
+				   		"url" : "https://ipricethailand.com/nike/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/nike-sq.jpg"
+				   }
+			]	
+		}
+ ]
+}

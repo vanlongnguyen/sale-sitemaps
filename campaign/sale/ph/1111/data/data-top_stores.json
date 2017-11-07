@@ -1,0 +1,48 @@
+{
+	"items": [
+		{
+			"values" : [
+				   {
+						"title": "Zalora",
+						"url": "https://iprice.ph/coupons/zalora/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+						"img": "image/zalora.jpg"
+				   },
+				   {
+				   		"title": "Lazada",
+				   		"url" : "https://iprice.ph/coupons/lazada/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/lazada.jpg"
+				   },
+				   {
+				   		"title": "Agoda",
+				   		"url" : "https://iprice.ph/coupons/agoda/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/agoda.jpg"
+				   },
+				   {
+				   		"title": "Expedia",
+				   		"url" : "https://iprice.ph/coupons/expedia/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/expedia.jpg"
+				   },
+				   {
+				   		"title": "Hotels.com",
+				   		"url" : "https://iprice.ph/coupons/hotelscom/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/hotelscom.jpg"
+				   },
+				   {
+				   		"title": "Althea",
+				   		"url" : "https://iprice.ph/coupons/althea/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/althea.jpg"
+				   },
+				   {
+				   		"title": "Shopee",
+				   		"url" : "https://iprice.ph/coupons/shopee/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/shopee.jpg"
+				   },
+				   {
+				   		"title": "Airbnb",
+				   		"url" : "https://iprice.ph/coupons/airbnb/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/airbnb.jpg"
+				   }
+			]	
+		}
+ ]
+}

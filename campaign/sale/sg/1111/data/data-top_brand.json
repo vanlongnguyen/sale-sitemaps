@@ -1,0 +1,38 @@
+{
+	"items": [
+		{
+			"values" : [
+				   {
+						"title": "Puma",
+						"url": "https://iprice.sg/puma/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+						"img": "image/puma-sq.jpg"
+				   },
+				   {
+				   		"title": "Garmin",
+				   		"url" : "https://iprice.sg/garmin/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/garmin-sq.jpg"
+				   },
+				   {
+				   		"title": "MCM",
+				   		"url" : "https://iprice.sg/mcm/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/mcm-sq.jpg"
+				   },
+				   {
+				   		"title": "Adidas",
+				   		"url" : "https://iprice.sg/adidas/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/adidas-sq.jpg"
+				   },
+				   {
+				   		"title": "Vans",
+				   		"url" : "https://iprice.sg/vans/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/vans-sq.jpg"
+				   },
+				   {
+				   		"title": "Seiko",
+				   		"url" : "https://iprice.sg/seiko/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/seiko-sq.jpg"
+				   }
+			]	
+		}
+	]
+}

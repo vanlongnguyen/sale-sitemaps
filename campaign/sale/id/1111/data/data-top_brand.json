@@ -1,0 +1,38 @@
+{
+	"items": [
+		{
+			"values" : [
+				   {
+						"title": "Miniso",
+						"url": "https://iprice.co.id/miniso/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+						"img": "image/miniso-sq.jpg"
+				   },
+				   {
+				   		"title": "Samsung",
+				   		"url" : "https://iprice.co.id/samsung/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/samsung.jpg"
+				   },
+				   {
+				   		"title": "Vincci",
+				   		"url" : "https://iprice.co.id/vincci/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/vincci.jpg"
+				   },
+				   {
+				   		"title": "Adidas",
+				   		"url" : "https://iprice.co.id/adidas/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/adidas-sq.jpg"
+				   },
+				   {
+				   		"title": "Fossil",
+				   		"url" : "https://iprice.co.id/fossil/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/fossil-sq.jpg"
+				   },
+				   {
+				   		"title": "Hush Puppies",
+				   		"url" : "https://iprice.co.id/hush-puppies/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/hushpuppies.jpg"
+				   }
+			]	
+		}
+ ]
+}

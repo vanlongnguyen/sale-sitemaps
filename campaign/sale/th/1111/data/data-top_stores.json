@@ -1,0 +1,48 @@
+{
+	"items": [
+		{
+			"values" : [
+				   {
+						"title": "Central",
+						"url": "https://ipricethailand.com/coupons/central-online/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+						"img": "https://bilhasry-iprice.github.io/sale/data/th/image/central.jpg"
+				   },
+				   {
+				   		"title": "Lazada",
+				   		"url" : "https://ipricethailand.com/coupons/lazada/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/lazada.jpg"
+				   },
+				   {
+				   		"title": "Looksi",
+				   		"url" : "https://ipricethailand.com/coupons/looksi/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/looksi.jpg"
+				   },
+				   {
+				   		"title": "Tops",
+				   		"url" : "https://ipricethailand.com/coupons/tops-shop-online/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/tops.jpg"
+				   },
+				   {
+				   		"title": "BigC",
+				   		"url" : "https://ipricethailand.com/coupons/big-c-online/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/big-c.jpg"
+				   },
+				   {
+				   		"title": "Konvy",
+				   		"url" : "https://ipricethailand.com/coupons/konvy/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/konvy.jpg"
+				   },
+				   {
+				   		"title": "Shopat24",
+				   		"url" : "https://ipricethailand.com/coupons/shopat24/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/shopat24.jpg"
+				   },
+				   {
+				   		"title": "Uber",
+				   		"url" : "https://ipricethailand.com/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "https://bilhasry-iprice.github.io/sale/data/th/image/uber.jpg"
+				   }
+			]	
+		}
+ ]
+}

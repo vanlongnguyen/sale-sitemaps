@@ -1,0 +1,48 @@
+{
+	"items": [
+		{
+			"values" : [
+				   {
+						"title": "Zalora",
+						"url": "https://iprice.sg/coupons/zalora/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+						"img": "image/zalora.jpg"
+				   },
+				   {
+				   		"title": "Lazada",
+				   		"url" : "https://iprice.sg/coupons/lazada/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/lazada.jpg"
+				   },
+				   {
+				   		"title": "Agoda",
+				   		"url" : "https://iprice.sg/coupons/agoda/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/agoda.jpg"
+				   },
+				   {
+				   		"title": "Expedia",
+				   		"url" : "https://iprice.sg/coupons/expedia/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/expedia.jpg"
+				   },
+				   {
+				   		"title": "Hotels.com",
+				   		"url" : "https://iprice.sg/coupons/hotelscom/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/hotelscom.jpg"
+				   },
+				   {
+				   		"title": "UberEATS",
+				   		"url" : "https://iprice.sg/coupons/ubereats/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/ubereats.jpg"
+				   },
+				   {
+				   		"title": "Redmart",
+				   		"url" : "https://iprice.sg/coupons/redmart/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/redmart.jpg"
+				   },
+				   {
+				   		"title": "Uber",
+				   		"url" : "https://iprice.sg/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/uber.jpg"
+				   }
+			]	
+		}
+ ]
+}

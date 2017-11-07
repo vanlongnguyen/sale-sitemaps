@@ -1,0 +1,112 @@
+{
+ "items": [
+   {
+		"title": "Gogobli",
+		"highlight" : "70% OFF",
+		"coupon_code" : "required",
+		"description" : "Diskon 70% untuk produk kosmetik",
+		"url": "https://iprice.co.id/r/c/?_id=a1c6071ab46feb1de7ec60eaa22c738c2ebfb5b1&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fgogobli%2F",
+		"img": "image/gogobli.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Pegipegi",
+		"highlight" : "150 ribu OFF",
+		"coupon_code" : "5A9GQAB",
+		"description" : "Voucher Pegipegi hotel 150 ribu dengan Bank Mandiri",
+		"url": "https://iprice.co.id/r/c/?_id=711f5bdf8f959849428cbee38789f83aac018717&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Fpegipegi%2F%3F_id%3Dc9ffb173bb4a25588ceef51116efe5d505bceebf%26position%3D1%26sub_product%3Dcoupon-store%26_exit%3D%252Fcoupons%252Fpegipegi%252F",
+		"img": "image/pegipegi.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "AliExpress",
+		"highlight" : "70% OFF",
+		"coupon_code" : "required",
+		"description" : "Diskon hingga 70% untuk semua produk",
+		"url": "https://iprice.co.id/r/c/?_id=8778d919cb294ed3a3356a3ff846d960df26e86e&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Faliexpress%2F",
+		"img": "image/aliexpress.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Papuros",
+		"highlight" : "18% OFF",
+		"coupon_code" : "required",
+		"description" : "Diskon 18% untuk produk Innisfree",
+		"url": "https://iprice.co.id/r/c/?_id=4c50080e7dad7593e8e78b6cdf9a19ec451d9614&position=13&sub_product=coupon-store&_exit=%2Fcoupons%2Fpapuros%2F",
+		"img": "image/papuros.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Honestbee",
+		"highlight" : "50 ribu OFF",
+		"coupon_code" : "required",
+		"description" : "Voucher Honestbee 50 ribu",
+		"url": "https://iprice.co.id/r/c/?_id=c58dfe8c47730eb3c3b227b38c4d20950ea02edb&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fhonestbee%2F",
+		"img": "image/honestbee.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Fave",
+		"highlight" : "10% OFF",
+		"coupon_code" : "HUJAN10",
+		"description" : "Fave promo 10% untuk semua deals",
+		"url": "https://iprice.co.id/coupons/fave/?_id=d415bb6fcd982550241c5b8b5ddf049fb891b1fe&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Ffave%2F",
+		"img": "image/fave.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Orami",
+		"highlight" : "18% OFF",
+		"coupon_code" : "*****",
+		"description" : "Voucher Orami 18% OFF untuk semua keperluan anak",
+		"url": "https://iprice.co.id/coupons/orami/?_id=32aea1b5039281170d6e52a5a912c1549dff5139&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Forami%2F",
+		"img": "image/orami.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zataru",
+		"highlight" : "10% OFF",
+		"coupon_code" : "*****",
+		"description" : "Voucher Zataru 10% OFF untuk semua parfum terfavorit",
+		"url": "https://iprice.co.id/coupons/zataru/?_id=596133c7f8ba17e7cd489d36448eeb50d24ecf0a&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzataru%2F",
+		"img": "image/zataru.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Pesona Nusantara",
+		"highlight" : "Mulai 11 ribu",
+		"coupon_code" : "required",
+		"description" : "Beli oleh-oleh hemat di Pesona Nusantara mulai Rp.11.000!",
+		"url": "https://iprice.co.id/r/c/?_id=071f631feb39ff68937ad9ca239e5c8a414406f7&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fpesona-nusantara%2F",
+		"img": "image/pesona-nusantara.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Hello Sora",
+		"highlight" : "50 ribu OFF",
+		"coupon_code" : "*****",
+		"description" : "Beli skincare dan makeup dengan voucher Hello Sora diskon 50 ribu!",
+		"url": "https://iprice.co.id/coupons/hello-sora/?_id=1990d5b9cae3e2c18363179b06850b2f6c050ef5&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fhello-sora%2F",
+		"img": "image/hello-sora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Perfect Beauty",
+		"highlight" : "50 ribu OFF",
+		"coupon_code" : "*****",
+		"description" : "Voucher 50 ribu untuk semua produk kosmetik dan skincare",
+		"url": "https://iprice.co.id/coupons/perfect-beauty/?_id=c76c6c64b0334df2ee4893037094a1223d214891&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fperfect-beauty%2F",
+		"img": "image/perfect-beauty.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Banggood",
+		"highlight" : "75% OFF",
+		"coupon_code" : "required",
+		"description" : "Belanja untuk semua kategori di Banggood.com diskon hingga 75%",
+		"url": "https://iprice.co.id/r/c/?_id=fb382ac8f75f703888b1e2a2886575269eee622f&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fbanggood%2F",
+		"img": "image/banggood.jpg",
+		"type" : "direct"
+   }
+ ]
+}

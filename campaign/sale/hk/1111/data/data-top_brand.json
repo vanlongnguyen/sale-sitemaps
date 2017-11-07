@@ -1,0 +1,38 @@
+{
+ "items": [
+ 	{
+            "values": [
+			   {
+					"title": "Reebok",
+					"url": "https://iprice.hk/reebok/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+					"img": "image/reebok-sq.jpg"
+			   },
+			   {
+					"title": "Xiaomi",
+					"url": "https://iprice.hk/xiaomi/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+					"img": "image/xiaomi-sq.jpg"
+			   },
+			   {
+					"title": "Havaianas",
+					"url": "https://iprice.hk/havaianas/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+					"img": "image/havaianas-sq.jpg"
+			   },
+			   {
+					"title": "Herschel",
+					"url": "https://iprice.hk/herschel-supply-co/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+					"img": "image/herschel-sq.jpg"
+			   },
+			   {
+					"title": "Dr. Martens",
+					"url": "https://iprice.hk/dr-martens/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+					"img": "image/drmartens-sq.jpg"
+			   },
+			   {
+					"title": "Tumi",
+					"url": "https://iprice.hk/tumi/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+					"img": "image/tumi-sq.jpg"
+			   }
+			]
+		}
+	]
+}

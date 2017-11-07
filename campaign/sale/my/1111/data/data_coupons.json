@@ -1,0 +1,112 @@
+{
+ "items": [
+   {
+		"title": "Lazada",
+		"highlight" : "20% OFF",
+		"coupon_code" : "LAZ20SNS",
+		"description" : "Enjoy 20% OFF Tech Megasale today",
+		"url": "https://iprice.my/coupons/lazada/?_id=fab575cd8f49405ce28259a2ac519e307acad6f6&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Microsoft",
+		"highlight" : "Save RM120",
+		"coupon_code" : "required",
+		"description" : "Save up to RM120 on Office 365 Home and Student 2016",
+		"url": "https://iprice.my/r/c/?_id=43ec6bd3d6419ef8d750c537066244a3577d1d86&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fmicrosoft%2F",
+		"img": "image/microsoft.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Gearbest",
+		"highlight" : "10% OFF",
+		"coupon_code" : "required",
+		"description" : "10% OFF site-wide",
+		"url": "https://iprice.my/r/c/?_id=13b7487fe7dff194c9d7d3af28c7a3d13200dda9&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fgearbest%2F",
+		"img": "image/gearbest.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Hotels.com",
+		"highlight" : "50% OFF",
+		"coupon_code" : "required",
+		"description" : "Enjoy up to 50% OFF Single's Day promotion",
+		"url": "https://iprice.my/r/c/?_id=f59aa8c6d4f9f0b2fb6f3a9e61fd316d76ef840f&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fhotelscom%2F",
+		"img": "image/hotelscom.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Expedia",
+		"highlight" : "10% OFF",
+		"coupon_code" : "*****",
+		"description" : "Enjoy extra 10% OFF with your CIMB card",
+		"url": "https://iprice.my/coupons/expedia/?_id=28be63cf9e9f4f4196a1b969a34ad864d457d44f&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpedia%2F",
+		"img": "image/expedia.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "KKday",
+		"highlight" : "20% OFF",
+		"coupon_code" : "IPRICE20",
+		"description" : "Seize 20% OFF selected travel activities in Japan, Korea & Taiwan",
+		"url": "https://iprice.my/coupons/kkday/?_id=8c2c29d939eb0d72353478fd947919323e638da8&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fkkday%2F",
+		"img": "image/kkday.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Agoda",
+		"highlight" : "7% OFF",
+		"coupon_code" : "Card",
+		"description" : "Grab up to 7% OFF worldwide hotels with CIMB",
+		"url": "https://iprice.my/coupons/agoda/?_id=f4e1a9e69eb6a4bf52d1091f3304638cd6e8d52c&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Fagoda%2F",
+		"img": "image/agoda.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "AirAisa",
+		"highlight" : "10% OFF",
+		"coupon_code" : "GOMOBILE10",
+		"description" : "Get 10% OFF when you book hotel via AirAsiaGo mobile app",
+		"url": "https://iprice.my/coupons/airasia/?_id=7b97c90fdab2624000cd61fbd3b254ea61858897&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fairasia%2F",
+		"img": "image/airasia.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Grab",
+		"highlight" : "RM15 OFF",
+		"coupon_code" : "GRABIPRICE17",
+		"description" : "Grab up to RM15 worth of FREE rides nationwide",
+		"url": "https://iprice.my/coupons/grab/?_id=8ab759a484ba813330ee9cd16294b12f12c9c081&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
+		"img": "image/grab.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Motherhood",
+		"highlight" : "RM20 OFF",
+		"coupon_code" : "*****",
+		"description" : "Get RM20 OFF toys with min. spend of RM200",
+		"url": "https://iprice.my/coupons/motherhoodcommy/?_id=2449bdc36459ddcc3567cdc456b738e542e9d186&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Fmotherhoodcommy%2F",
+		"img": "image/motherhood.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Malaysian Airlines",
+		"highlight" : "45% OFF",
+		"coupon_code" : "required",
+		"description" : "Enjoy up to 45% OFF every week with Malaysian Airlines",
+		"url": "https://iprice.my/r/c/?_id=617a86dd26e4fa963eccd658b5007e5d8db8ed2a&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fmalaysia-airlines%2F",
+		"img": "image/malaysianairlines.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Club Med",
+		"highlight" : "45% OFF",
+		"coupon_code" : "required",
+		"description" : "Enjoy up to 45% OFF early bird Asia deals",
+		"url": "https://iprice.my/r/c/?_id=14947c010f91b6cf01c1938726c1f42a2279de1c&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fclub-med%2F",
+		"img": "https://d1vfs9f7h1rfk4.cloudfront.net/store/club-med-my.jpg",
+		"type" : "direct"
+   }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "items": [
+   {
+		"title": "Zuji",
+		"highlight" : "12% OFF",
+		"coupon_code" : "*****",
+		"description" : "Get 12% OFF for hotels using MasterCard",
+		"url": "https://iprice.sg/coupons/zuji/?_id=a3b9da402170a8b7ef8aeed88d61db0bd2f5612e&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fzuji%2F",
+		"img": "image/zuji.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Honestbee",
+		"highlight" : "$20 OFF",
+		"coupon_code" : "*****",
+		"description" : "Get SG$20 discount with min. spend of SG$85 by using Standard Chartered Card",
+		"url": "https://iprice.sg/coupons/honestbee/?_id=422fe34445487e336c6a440899e320b9a8c92cae&position=13&sub_product=coupon-store&_exit=%2Fcoupons%2Fhonestbee%2F",
+		"img": "image/honestbee.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "UberEATS",
+		"highlight" : "$5 OFF",
+		"coupon_code" : "*****",
+		"description" : "$5 OFF first order",
+		"url": "https://iprice.sg/coupons/ubereats/?_id=84329c7b94c88ebe85dff0c2cdba64ad859f38da&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fubereats%2F",
+		"img": "image/ubereats.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Redmart",
+		"highlight" : "$15 OFF",
+		"coupon_code" : "15DIPRIC",
+		"description" : "Enjoy SG$15 OFF storewide!",
+		"url": "https://iprice.sg/coupons/redmart/?_id=2286ef1ac73a1f0991902f09630245bc49ac5344&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fredmart%2F",
+		"img": "image/redmart.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "$6 OFF",
+		"coupon_code" : "*****",
+		"description" : "Receive $6 OFF express deals with your Citibank Card",
+		"url": "https://iprice.sg/coupons/lazada/?_id=535abd3e13c5df78e80e82a2a563787f942003cb&position=13&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Microsoft",
+		"highlight" : "$249 OFF",
+		"coupon_code" : "required",
+		"description" : "Save $249 on Surface 3",
+		"url": "https://iprice.sg/r/c/?_id=d6c8d019b5be9ae93e15e674eeae1cde8078370b&position=7&sub_product=coupon-store&_exit=%2Fcoupons%2Fmicrosoft%2F",
+		"img": "image/microsoft.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Gearbest",
+		"highlight" : "10% OFF",
+		"coupon_code" : "*****",
+		"description" : "10% OFF site-wide",
+		"url": "https://iprice.sg/coupons/gearbest/?_id=074a3da1eff208ee28f70a7c5d2fdcb7c0739de0&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fgearbest%2F",
+		"img": "image/gearbest.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Hotels.com",
+		"highlight" : "12% OFF",
+		"coupon_code" : "*****",
+		"description" : "Get 12% OFF by using Standard Chartered Credit Card",
+		"url": "https://iprice.sg/coupons/hotelscom/?_id=cce031003d4a9e3d442b7c03e65ad5a4461e97c0&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fhotelscom%2F",
+		"img": "image/hotelscom.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Expedia",
+		"highlight" : "10% OFF",
+		"coupon_code" : "*****",
+		"description" : "Get 10% OFF for hotels in Yogyakarta!",
+		"url": "https://iprice.sg/coupons/expedia/?_id=634636bb3b798c46c5815961ce54be6fb6c13570&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpedia%2F",
+		"img": "image/expedia.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "KKday",
+		"highlight" : "20% OFF",
+		"coupon_code" : "IPRICE20",
+		"description" : "Get 20% OFF for Citibank Users",
+		"url": "https://iprice.sg/coupons/kkday/?_id=7b582ac19a6a7dacabcdd8c8beb06b1b94d30a9a&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fkkday%2F",
+		"img": "image/kkday.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Agoda",
+		"highlight" : "10% OFF",
+		"coupon_code" : "*****",
+		"description" : "Get 10% OFF for hotels in Melbourne!",
+		"url": "https://iprice.sg/coupons/agoda/?_id=40c140de31b3b7deb7093fe8f4a0fb7c26d89a4f&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Fagoda%2F",
+		"img": "image/agoda.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Sephora",
+		"highlight" : "Free Cardholder",
+		"coupon_code" : "*****",
+		"description" : "Spend min. SG$250 and receive exclusive cardholder and 4 key chains for Gold & Black Members",
+		"url": "https://iprice.sg/coupons/sephora/?_id=b852ee9c9a946c3ace1e83f0e8abd3474c19dac4&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fsephora%2F",
+		"img": "image/sephora.jpg",
+		"type" : "popup"
+   }
+ ]
+}

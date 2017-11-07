@@ -1,0 +1,112 @@
+{
+ "items": [
+   {
+		"title": "Hotels.com",
+		"highlight" : "5% OFF",
+		"coupon_code" : "PH5OFF",
+		"description" : "Get 5% OFF on top of hotel deals",
+		"url": "https://iprice.ph/coupons/hotelscom/?_id=e99790b4a5c03276e71c0e95f0032b33f3309c60&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fhotelscom%2F",
+		"img": "image/hotelscom.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Expedia",
+		"highlight" : "10% OFF",
+		"coupon_code" : "number",
+		"description" : "Get extra 10% OFF for BDO customers",
+		"url": "https://iprice.ph/coupons/expedia/?_id=2073e8db6f14f21b70a9c217421f7df23bade037&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fexpedia%2F",
+		"img": "image/expedia.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "KKday",
+		"highlight" : "10% OFF",
+		"coupon_code" : "CITISG10",
+		"description" : "Extra 10% OFF at Taiwan with Citibank",
+		"url": "https://iprice.ph/coupons/kkday/?_id=f1a6de115ca64e902f8b0294553bacc049fc8c1c&position=2&sub_product=coupon-store&_exit=%2Fcoupons%2Fkkday%2F",
+		"img": "image/kkday.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Agoda",
+		"highlight" : "60% OFF",
+		"coupon_code" : "required",
+		"description" : "Save 60% OFF on your trip with Agoda",
+		"url": "https://iprice.ph/r/c/?_id=3b22f415c876fd82f2e1bc4b71aa87f9079009fe&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fagoda%2F",
+		"img": "image/agoda.jpg",
+		"type" : "direct"
+   },
+   {
+		"title": "Sephora",
+		"highlight" : "FREE",
+		"coupon_code" : "*****",
+		"description" : "FREE Sephora rouge matte lipstick with any lip products",
+		"url": "https://iprice.ph/coupons/sephora/?_id=4c53c08a5bc96a8765e4a8f6b657b2e98bb970ac&position=6&sub_product=coupon-store&_exit=%2Fcoupons%2Fsephora%2F",
+		"img": "image/sephora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Althea",
+		"highlight" : "10% OFF",
+		"coupon_code" : "*****",
+		"description" : "10% OFF sitewide with any purchase",
+		"url": "https://iprice.ph/coupons/althea/?_id=bdfeece440b308ec35d7a447cfeb86793b30a3e7&position=4&sub_product=coupon-store&_exit=%2Fcoupons%2Falthea%2F",
+		"img": "image/althea.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Lazada",
+		"highlight" : "12% OFF",
+		"coupon_code" : "page",
+		"description" : "Get up to 12% OFF your favourite stores",
+		"url": "https://iprice.ph/coupons/lazada/?_id=f2410f7a9791679fa67b64d24affd4dcaf159373&position=3&sub_product=coupon-store&_exit=%2Fcoupons%2Flazada%2F",
+		"img": "image/lazada.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Zalora",
+		"highlight" : "70% OFF",
+		"coupon_code" : "*****",
+		"description" : "Dolce & Gabanna product up to 70% OFF + extra 20% OFF",
+		"url": "https://iprice.ph/coupons/zalora/?_id=f003cf0902746a4fdf9e4da8972d667684e6ecea&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Fzalora%2F",
+		"img": "image/zalora.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Grab",
+		"highlight" : "P15 OFF",
+		"coupon_code" : "PANAGBENGA",
+		"description" : "P15 OFF x 5 rides",
+		"url": "https://iprice.ph/coupons/grab/?_id=e28e0808ae68f589612eaf8cd7c8df9541f5cd2b&position=5&sub_product=coupon-store&_exit=%2Fcoupons%2Fgrab%2F",
+		"img": "image/grab.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Uber",
+		"highlight" : "P60 OFF",
+		"coupon_code" : "ipriceUberPH",
+		"description" : "Enjoy P60 OFF on first 3 rides",
+		"url": "https://iprice.ph/coupons/uber/?_id=2596631c53ca62bf2f0b93f09a1f9057def9da37&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fuber%2F",
+		"img": "image/uber.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Klook",
+		"highlight" : "75% OFF",
+		"coupon_code" : "*****",
+		"description" : "Get up to 75% OFF on selected travel activities with DBS HK Cards",
+		"url": "https://iprice.ph/coupons/klook/?_id=5debcabdf68427c9a5cd46d91989e52166538d11&position=1&sub_product=coupon-store&_exit=%2Fcoupons%2Fklook%2F",
+		"img": "image/klook.jpg",
+		"type" : "popup"
+   },
+   {
+		"title": "Watchportal",
+		"highlight" : "5% OFF",
+		"coupon_code" : "*****",
+		"description" : "Get extra 5% OFF on best selling watches",
+		"url": "https://iprice.ph/coupons/watchportal/?_id=2a6d47d22d4b9ef6385c920168871bc1841777bb&position=8&sub_product=coupon-store&_exit=%2Fcoupons%2Fwatchportal%2F",
+		"img": "image/watchportal.jpg",
+		"type" : "popup"
+   }
+ ]
+}

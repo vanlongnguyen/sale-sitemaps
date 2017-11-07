@@ -1,0 +1,48 @@
+{
+	"items": [
+		{
+			"values" : [
+				   {
+						"title": "Zalora",
+						"url": "https://iprice.hk/coupons/zalora/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+						"img": "image/zalora.jpg"
+				   },
+				   {
+				   		"title": "Zuji",
+				   		"url" : "https://iprice.hk/coupons/zuji/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/zuji.jpg"
+				   },
+				   {
+				   		"title": "Agoda",
+				   		"url" : "https://iprice.hk/coupons/agoda/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/agoda.jpg"
+				   },
+				   {
+				   		"title": "Ctrip",
+				   		"url" : "https://iprice.hk/coupons/ctrip/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/ctrip.jpg"
+				   },
+				   {
+				   		"title": "HomeAway",
+				   		"url" : "https://iprice.hk/coupons/homeaway/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/homeaway.jpg"
+				   },
+				   {
+				   		"title": "ParknShop",
+				   		"url" : "https://iprice.hk/coupons/parknshop/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/parknshop.jpg"
+				   },
+				   {
+				   		"title": "Klook",
+				   		"url" : "https://iprice.hk/coupons/klook/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/klook.jpg"
+				   },
+				   {
+				   		"title": "iHerb",
+				   		"url" : "https://iprice.hk/coupons/iherb/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/iherb.jpg"
+				   }
+			]	
+		}
+ ]
+}

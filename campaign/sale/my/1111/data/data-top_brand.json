@@ -1,0 +1,38 @@
+{
+	"items": [
+		{
+			"values" : [
+				   {
+						"title": "Puma",
+						"url": "https://iprice.my/puma/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+						"img": "image/puma-sq.jpg"
+				   },
+				   {
+				   		"title": "Skechers",
+				   		"url" : "https://iprice.my/skechers/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/skechers-sq.jpg"
+				   },
+				   {
+				   		"title": "Vincci",
+				   		"url" : "https://iprice.my/vincci/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/vincci.jpg"
+				   },
+				   {
+				   		"title": "Tissot",
+				   		"url" : "https://iprice.my/tissot/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/tissot-sq.jpg"
+				   },
+				   {
+				   		"title": "Vans",
+				   		"url" : "https://iprice.my/vans/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/vans-sq.jpg"
+				   },
+				   {
+				   		"title": "Nike",
+				   		"url" : "https://iprice.my/nike/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/nike-sq.jpg"
+				   }
+			]	
+		}
+ ]
+}

@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "values": [
+                {
+                    "title": "Zalora",
+                    "description": "11.11 Singles Day Your Way. Up to 60% + 14% Off",
+                    "url": "http://bit.ly/2A3lMJH",
+                    "img": "image/zalora_square.jpg",
+                    "cta" : "Shop Now",
+                    "default" : true
+                },
+                {
+                    "title": "Jam Tangan",
+                    "description": "Semakin kece dengan balutan jam tangan baru di akhir tahun. Borong sekarang!",
+                    "url": "https://iprice.co.id/jam-tangan/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "https://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/watch__imo4pa.jpg",
+                    "cta" : "Belanja Sekarang",
+                    "default" : true
+                },
+                {
+                    "title": "Sepatu",
+                    "description": "Sneakers, high heels, sepatu olahraga, semua ada dengan harga murah yang fantastis!",
+                    "url": "https://iprice.co.id/sepatu/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "https://res.cloudinary.com/dqf8oma0l/image/upload/v1509451728/shoes__xlwz6b.jpg",
+                    "cta" : "Belanja Sekarang",
+                    "default" : true
+                },
+                {
+                    "title": "Tas",
+                    "description": "Lebih hemat membeli tas branded impian di Sale 11.11!",
+                    "url": "https://iprice.co.id/tas/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+                    "img": "https://res.cloudinary.com/dqf8oma0l/image/upload/v1509512807/bags2__pu7vf0.jpg",
+                    "cta" : "Belanja Sekarang",
+                    "default" : true
+                }
+            ]
+        }
+    ]
+}

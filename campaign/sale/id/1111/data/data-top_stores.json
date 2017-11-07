@@ -1,0 +1,48 @@
+{
+	"items": [
+		{
+			"values" : [
+				   {
+						"title": "Bukalapak",
+						"url": "https://iprice.co.id/coupons/bukalapak/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+						"img": "image/bukalapak.jpg"
+				   },
+				   {
+				   		"title": "Uber",
+				   		"url" : "https://iprice.co.id/coupons/uber/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/uber.jpg"
+				   },
+				   {
+				   		"title": "Tokopedia",
+				   		"url" : "https://iprice.co.id/coupons/tokopedia/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/tokopedia.jpg"
+				   },
+				   {
+				   		"title": "Lazada",
+				   		"url" : "https://iprice.co.id/coupons/lazada/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/lazada.jpg"
+				   },
+				   {
+				   		"title": "Zalora",
+				   		"url" : "https://iprice.co.id/coupons/zalora/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/zalora.jpg"
+				   },
+				   {
+				   		"title": "MatahariMall",
+				   		"url" : "https://iprice.co.id/coupons/mataharimall/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/mataharimall.jpg"
+				   },
+				   {
+				   		"title": "VIP Plaza",
+				   		"url" : "https://iprice.co.id/coupons/vip-plaza/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/vip-plaza.jpg"
+				   },
+				   {
+				   		"title": "Blanja",
+				   		"url" : "https://iprice.co.id/coupons/blanja/?utm_source=onsite&utm_medium=landing_page&utm_campaign=11_11_Sale",
+				   		"img": "image/blanja.jpg"
+				   }
+			]	
+		}
+ ]
+}
